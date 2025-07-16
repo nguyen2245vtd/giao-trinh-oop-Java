@@ -23,7 +23,7 @@ Giáo trình được thiết kế với **phong cách dễ hiểu**, có ví d�
 ## 📂 File tải về
 
 - 📄 Bản Word: [giao_trinh_OOP_Java.docx](./giao_trinh_OOP_JAVA.docx)
-- 📕 Bản PDF: [giao_trinh_OOP_Java.pdf](./giao_trinh_OOP_Java.pdf)
+- 📕 Bản PDF: [giao_trinh_OOP_Java.pdf](./giao_trinh_OOP_JAVA.pdf)
 
 ---
 
